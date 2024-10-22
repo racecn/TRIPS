@@ -1,0 +1,6 @@
+B:\trips\trips_renderer\src\main.cpp;B:\trips\trips_renderer\build\trips_renderer.dir\Debug\main.obj
+B:\trips\trips_renderer\src\renderer.cpp;B:\trips\trips_renderer\build\trips_renderer.dir\Debug\renderer.obj
+B:\trips\trips_renderer\src\point_cloud.cpp;B:\trips\trips_renderer\build\trips_renderer.dir\Debug\point_cloud.obj
+B:\trips\trips_renderer\src\neural_network.cpp;B:\trips\trips_renderer\build\trips_renderer.dir\Debug\neural_network.obj
+B:\trips\trips_renderer\src\image_pyramid.cpp;B:\trips\trips_renderer\build\trips_renderer.dir\Debug\image_pyramid.obj
+B:\trips\trips_renderer\src\shader.cpp;B:\trips\trips_renderer\build\trips_renderer.dir\Debug\shader.obj

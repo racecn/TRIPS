@@ -1,0 +1,4 @@
+B:/trips/trips_renderer/build/CMakeFiles/glad.dir
+B:/trips/trips_renderer/build/CMakeFiles/trips_renderer.dir
+B:/trips/trips_renderer/build/CMakeFiles/ALL_BUILD.dir
+B:/trips/trips_renderer/build/CMakeFiles/ZERO_CHECK.dir

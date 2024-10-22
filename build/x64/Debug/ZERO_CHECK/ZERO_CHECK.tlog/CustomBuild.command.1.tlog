@@ -1,0 +1,10 @@
+^B:\TRIPS\TRIPS_RENDERER\BUILD\CMAKEFILES\F9D45AC4C50823AE96CBE9CF1045AB46\GENERATE.STAMP.RULE
+setlocal
+C:\Users\Nathan\scoop\apps\cmake\3.29.1\bin\cmake.exe -SB:/trips/trips_renderer -BB:/trips/trips_renderer/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file B:/trips/trips_renderer/build/trips_renderer.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
