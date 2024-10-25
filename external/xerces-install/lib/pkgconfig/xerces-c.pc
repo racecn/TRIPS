@@ -1,0 +1,11 @@
+prefix=B:/trips/trips_renderer/external/xerces-install
+exec_prefix=B:/trips/trips_renderer/external/xerces-install
+libdir=B:/trips/trips_renderer/external/xerces-install/lib
+includedir=B:/trips/trips_renderer/external/xerces-install/include
+
+Name: Xerces-C++
+Description: Validating XML parser library for C++
+Version: 3.3.0
+Libs: -LB:/trips/trips_renderer/external/xerces-install/lib -lxerces-c
+Libs.private: 
+Cflags: -IB:/trips/trips_renderer/external/xerces-install/include
